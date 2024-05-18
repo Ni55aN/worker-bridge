@@ -1,0 +1,4 @@
+Worker Bridge
+===
+
+**TypeScript library**

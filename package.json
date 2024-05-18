@@ -1,0 +1,16 @@
+{
+  "name": "worker-bridge",
+  "version": "0.1.0",
+  "description": "Worker bridge is a library for communication between main thread and worker threads",
+  "scripts": {
+    "build": "rete build -c rete.config.ts",
+    "lint": "rete lint",
+    "test": "rete test"
+  },
+  "author": "Vitaliy Stoliarov",
+  "license": "MIT",
+  "devDependencies": {
+    "rete-cli": "^1.0.3",
+    "typescript": "^4.9.5"
+  }
+}
